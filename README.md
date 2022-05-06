@@ -1,5 +1,6 @@
-### Hi there 👋
+### Greetings 
 
+I am currently studying mechanical engineering in METU. Trying to learn as I go, figuring out what I need, to do what I envision. My main interests are towards artificial intelligence.
 <!--
 **menesetere/menesetere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
